@@ -1,0 +1,14 @@
+[
+  {
+   "name": "Book 1",
+   "price": 10.99
+  },
+  {
+    "name": "Book 2",
+    "price": 15.50
+  },
+  {
+    "name": "Book 3",
+    "price": 8.75
+  }
+]
